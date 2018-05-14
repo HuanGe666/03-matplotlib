@@ -10,3 +10,4 @@ wm.add('South America',
 		'gy', 'pe', 'py', 'sr', 'uy', 've']
 )
 wm.render_to_file('americas.svg')
+print('a')
